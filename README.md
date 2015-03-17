@@ -5,4 +5,5 @@
 ## Запуск
 
     bundle install
+    rake db:seed
     rails s
